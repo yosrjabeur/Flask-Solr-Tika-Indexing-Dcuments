@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+input[type="file"], input[type="text"], input[type="submit"] {
+    margin: 10px 0;
+    display: block;
+}
+
+#search-results {
+    margin-top: 20px;
+}
